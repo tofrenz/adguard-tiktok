@@ -73,3 +73,4 @@ pull-flv-l16-tt01.tiktokcdn-us.com.atomile.com
 pull-cmaf-l16-tt01.tiktokcdn-us.com
 pull-flv-l16-tt01.tiktokcdn-us.com
 p16-sign.tiktokcdn-us.com
+p19-sign.tiktokcdn-us.com
