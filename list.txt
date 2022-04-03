@@ -1076,3 +1076,6 @@ zttvq.v.bsgslb.com
 zttvs.v.bsgslb.com
 sf16-scmcdn-va.ibytedtos.com
 sf16-scmcdn-va.ibytedtos.com
+pull-cmaf-f16-gcp01.ttlivecdn.com
+pull-cmaf-f16-sg01.ttlivecdn.com
+sf16.tiktokcdn-us.com
